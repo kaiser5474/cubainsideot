@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* .full_image_2 {
+  background-image: url(../public/images/full_image_2.jpg);
+} */
+
+.full_image_1 {
+  background-image: url("../public/images/full_image_1.jpg");
+}
+
+.full_image_2 {
+  background-image: url("../public/images/full_image_2.jpg");
+}
+
+/* .img_10 {
+  background-image: url(../public/images/img_10.jpg);
+} */
