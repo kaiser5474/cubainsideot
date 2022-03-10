@@ -74,7 +74,7 @@ function App() {
             <div className="text-inner">
               <div className="row">
                 <div className="col-md-8 col-md-offset-2">
-                  <h1 className="to-animate">Do Only What You Love.</h1>
+                  <h1 className="to-animate">Haz solo lo que amas.</h1>
                   <h2 className="to-animate">
                     Elate is a Free HTML5 Bootstrap Template Released Under{" "}
                     <a
