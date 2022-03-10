@@ -20,7 +20,7 @@ function App() {
                 <i></i>
               </a>
               <a className="navbar-brand" href="index.html">
-                Elate
+                Cubainsideout
               </a>
             </div>
             <div id="navbar" className="navbar-collapse collapse">
@@ -32,27 +32,27 @@ function App() {
                 </li>
                 <li>
                   <a href="#" data-nav-section="work">
-                    <span>Work</span>
+                    <span>Trabajos</span>
                   </a>
                 </li>
                 <li>
                   <a href="#" data-nav-section="testimonials">
-                    <span>Testimonials</span>
+                    <span>Testimonios</span>
                   </a>
                 </li>
                 <li>
                   <a href="#" data-nav-section="services">
-                    <span>Services</span>
+                    <span>Servicios</span>
                   </a>
                 </li>
                 <li>
                   <a href="#" data-nav-section="about">
-                    <span>About</span>
+                    <span>Nosotros</span>
                   </a>
                 </li>
                 <li>
                   <a href="#" data-nav-section="contact">
-                    <span>Contact</span>
+                    <span>Contacto</span>
                   </a>
                 </li>
               </ul>
