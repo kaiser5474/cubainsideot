@@ -89,13 +89,13 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="slant">dddd</div>
+        <div className="slant"></div>
       </section>
       <section id="fh5co-intro">
         <div className="container">
-          <div className="row row-bottom-padded-lg">
-            <div className="fh5co-block to-animate full_image_2">
-              <div className="overlay-darker"></div>
+          <div className="row row-bottom-padded-lg ">
+            <div className="fh5co-block to-animate ">
+              <div className="overlay-darker full_image_2"></div>
               <div className="overlay"></div>
               <div className="fh5co-text">
                 <i className="fh5co-intro-icon icon-bulb"></i>
@@ -165,7 +165,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 section-heading text-center">
-              <h2 className="to-animate">Work</h2>
+              <h2 className="to-animate">Trabajos</h2>
               <div className="row">
                 <div className="col-md-8 col-md-offset-2 subtext to-animate">
                   <h3>
@@ -353,7 +353,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 section-heading text-center">
-              <h2 className="to-animate">Testimonials</h2>
+              <h2 className="to-animate">Testimonios</h2>
               <div className="row">
                 <div className="col-md-8 col-md-offset-2 subtext to-animate">
                   <h3>
@@ -438,7 +438,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 section-heading text-left">
-              <h2 className=" left-border to-animate">Services</h2>
+              <h2 className=" left-border to-animate">Servicios</h2>
               <div className="row">
                 <div className="col-md-8 subtext to-animate">
                   <h3>
@@ -502,7 +502,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 section-heading text-center">
-              <h2 className="to-animate">About</h2>
+              <h2 className="to-animate">Nosotros</h2>
               <div className="row">
                 <div className="col-md-8 col-md-offset-2 subtext to-animate">
                   <h3>
@@ -703,27 +703,27 @@ function App() {
           </div>
           <div className="row row-bottom-padded-md">
             <div className="col-md-6 to-animate">
-              <h3>Contact Info</h3>
+              <h3>Información de Contacto</h3>
               <ul className="fh5co-contact-info">
                 <li className="fh5co-contact-address ">
                   <i className="icon-home"></i>
-                  5555 Love Paradise 56 New Clity 5655, <br />
-                  Excel Tower United Kingdom
+                  170502 De Las Hortensias <br />
+                  Quito, Pichincha, Ecuador
                 </li>
                 <li>
-                  <i className="icon-phone"></i> (123) 465-6789
+                  <i className="icon-phone"></i> (+593) 0963959520
                 </li>
                 <li>
                   <i className="icon-envelope"></i>info@yourmail.co
                 </li>
-                <li>
+                {/* <li>
                   <i className="icon-globe"></i> <a href="#">freehtml5.co</a>
-                </li>
+                </li> */}
               </ul>
             </div>
 
             <div className="col-md-6 to-animate">
-              <h3>Contact Form</h3>
+              <h3>Contáctenos</h3>
               <div className="form-group ">
                 <label htmlFor="name" className="sr-only">
                   Name
@@ -731,7 +731,7 @@ function App() {
                 <input
                   id="name"
                   className="form-control"
-                  placeholder="Name"
+                  placeholder="Nombre"
                   type="text"
                 />
               </div>
@@ -753,7 +753,7 @@ function App() {
                 <input
                   id="phone"
                   className="form-control"
-                  placeholder="Phone"
+                  placeholder="Teléfono"
                   type="text"
                 />
               </div>
@@ -767,13 +767,13 @@ function App() {
                   cols="30"
                   rows="5"
                   className="form-control"
-                  placeholder="Message"
+                  placeholder="Mensaje"
                 ></textarea>
               </div>
               <div className="form-group ">
                 <input
                   className="btn btn-primary btn-lg"
-                  value="Send Message"
+                  value="Enviar Mensaje"
                   type="submit"
                 />
               </div>
@@ -786,25 +786,14 @@ function App() {
       {/* INicio Footer */}
       <footer id="footer" role="contentinfo">
         <a href="#" className="gotop js-gotop">
-          To<i className="icon-arrow-up2">Top</i>
+          Ir<i className="icon-arrow-up2">Inicio</i>
         </a>
         <div className="container">
           <div className="">
             <div className="col-md-12 text-center">
               <p>
-                &copy; Elate Free HTML5. All Rights Reserved. <br />
-                Created by{" "}
-                <a href="http://freehtml5.co/" target="_blank">
-                  FREEHTML5.co
-                </a>{" "}
-                Images:{" "}
-                <a href="http://pexels.com/" target="_blank">
-                  Pexels
-                </a>
-                ,{" "}
-                <a href="http://plmd.me/" target="_blank">
-                  plmd.me
-                </a>
+                &copy; Cubainsideout. All Rights Reserved. <br />
+                Created by <a href="#">Cubainsideout</a>{" "}
               </p>
             </div>
           </div>
