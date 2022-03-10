@@ -75,7 +75,7 @@ function App() {
               <div className="row">
                 <div className="col-md-8 col-md-offset-2">
                   <h1 className="to-animate">Haz solo lo que amas.</h1>
-                  <h2 className="to-animate">
+                  {/* <h2 className="to-animate">
                     Elate is a Free HTML5 Bootstrap Template Released Under{" "}
                     <a
                       href="http://creativecommons.org/licenses/by/3.0/"
@@ -83,13 +83,13 @@ function App() {
                     >
                       Creative Commons 3.0
                     </a>
-                  </h2>
+                  </h2> */}
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div className="slant"></div>
+        <div className="slant">dddd</div>
       </section>
       <section id="fh5co-intro">
         <div className="container">

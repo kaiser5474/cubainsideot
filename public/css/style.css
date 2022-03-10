@@ -403,7 +403,7 @@ h6 {
   left: 0;
   right: 0;
   z-index: 2;
-  opacity: 0.9;
+  opacity: 0.8;
   -webkit-backface-visibility: hidden;
   background-color: #52d3aa;
   /* IE9, iOS 3.2+ */
