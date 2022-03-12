@@ -519,11 +519,11 @@ function App() {
                 <figure>
                   <img src="images/person1.jpg" alt="Image" />
                 </figure>
-                <h3>Jean Smith</h3>
-                <span className="fh5co-position">Web Designer</span>
+                <h3>Jarvis Miranda</h3>
+                <span className="fh5co-position">Full Stack Developer</span>
                 <p>
-                  Far far away, behind the word mountains, far from the
-                  countries Vokalia and Consonantia, there live the blind texts
+                  Software Engineer, Knowledge of Java, Javascript, React.js,
+                  Angular, Vue.js, PHP, MySQL, SQLServer, CSS, HTML
                 </p>
                 <ul className="social social-circle">
                   <li>
@@ -532,13 +532,13 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <a href="#">
-                      <i className="icon-facebook"></i>
+                    <a href="https://www.linkedin.com/in/jarvis-miranda-74896389/" target="_blank">
+                      <i className="icon-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#">
-                      <i className="icon-dribbble"></i>
+                    <a href="https://github.com/kaiser5474" target="_blank">
+                      <i className="icon-github"></i>
                     </a>
                   </li>
                 </ul>
@@ -801,13 +801,18 @@ function App() {
             <div className="col-md-12 text-center">
               <ul className="social social-circle">
                 <li>
-                  <a href="#">
-                    <i className="icon-twitter"></i>
+                  <a href="https://www.linkedin.com/company/cubainsideout" target="_blank" noreferrer>
+                    <i className="icon-linkedin"></i>
                   </a>
                 </li>
                 <li>
                   <a href="#">
                     <i className="icon-facebook"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <i className="icon-twitter"></i>
                   </a>
                 </li>
                 <li>
