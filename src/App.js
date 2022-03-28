@@ -27,7 +27,7 @@ function App() {
               <ul className="nav navbar-nav navbar-right">
                 <li className="active">
                   <a href="#" data-nav-section="home">
-                    <span>Home</span>
+                    <span>Inicio</span>
                   </a>
                 </li>
                 <li>
@@ -74,16 +74,10 @@ function App() {
             <div className="text-inner">
               <div className="row">
                 <div className="col-md-8 col-md-offset-2">
-                  <h1 className="to-animate">Haz solo lo que amas.</h1>
-                  {/* <h2 className="to-animate">
-                    Elate is a Free HTML5 Bootstrap Template Released Under{" "}
-                    <a
-                      href="http://creativecommons.org/licenses/by/3.0/"
-                      target="_blank"
-                    >
-                      Creative Commons 3.0
-                    </a>
-                  </h2> */}
+                  <h1 className="to-animate">
+                    Desarrollo Web, Apps, E-commerce, SEO y mucho m&aacute;
+                  </h1>
+                  <h2 className="to-animate">Haz solo lo que amas.</h2>
                 </div>
               </div>
             </div>
@@ -697,7 +691,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 section-heading text-center">
-              <h2 className="to-animate">Get In Touch</h2>
+              <h2 className="to-animate">Ponerse en Contacto</h2>
               <div className="row">
                 <div className="col-md-8 col-md-offset-2 subtext to-animate">
                   <h3>
@@ -720,12 +714,13 @@ function App() {
                 <li>
                   <i className="icon-phone"></i> (+593) 0963959520
                 </li>
-                <li>
-                  <i className="icon-envelope"></i>info@yourmail.co
-                </li>
                 {/* <li>
-                  <i className="icon-globe"></i> <a href="#">freehtml5.co</a>
+                  <i className="icon-envelope"></i>info@yourmail.co
                 </li> */}
+                <li>
+                  <i className="icon-globe"></i>{" "}
+                  <a href="#">cubainsideout.netlify.app</a>
+                </li>
               </ul>
             </div>
 
