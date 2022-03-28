@@ -532,7 +532,10 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/in/jarvis-miranda-74896389/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/jarvis-miranda-74896389"
+                      target="_blank"
+                    >
                       <i className="icon-linkedin"></i>
                     </a>
                   </li>
@@ -549,15 +552,16 @@ function App() {
                 <figure>
                   <img src="images/person2.jpg" alt="Image" />
                 </figure>
-                <h3>Rob Smith</h3>
-                <span className="fh5co-position">Web Developer</span>
+                <h3>Orsanhec Plaza</h3>
+                <span className="fh5co-position">Community Manager</span>
                 <p>
-                  Far far away, behind the word mountains, far from the
-                  countries Vokalia and Consonantia, there live the blind texts
+                  Lic. en Comunicación Social. Más de 17 años de experiencia
+                  profesional en los campos de periodismo, Community Manager,
+                  fotografía, inglés, emprendimiento...
                 </p>
                 <ul className="social social-circle">
                   <li>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/orsanhec">
                       <i className="icon-twitter"></i>
                     </a>
                   </li>
@@ -801,7 +805,11 @@ function App() {
             <div className="col-md-12 text-center">
               <ul className="social social-circle">
                 <li>
-                  <a href="https://www.linkedin.com/company/cubainsideout" target="_blank" noreferrer>
+                  <a
+                    href="https://www.linkedin.com/company/cubainsideout"
+                    target="_blank"
+                    noreferrer
+                  >
                     <i className="icon-linkedin"></i>
                   </a>
                 </li>
