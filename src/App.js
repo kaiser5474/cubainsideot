@@ -583,15 +583,18 @@ function App() {
                 <figure>
                   <img src="images/person3.jpg" alt="Image" />
                 </figure>
-                <h3>Larry Ben</h3>
-                <span className="fh5co-position">Web Designer</span>
+                <h3>Yulianela Rodríguez</h3>
+                <span className="fh5co-position">
+                  Community Manager &#38; SEO
+                </span>
                 <p>
-                  Far far away, behind the word mountains, far from the
-                  countries Vokalia and Consonantia, there live the blind texts
+                  Experiencia como reportera en Cubavisión Internacional.
+                  Redactora de contenidos web y manejo de Seo. Gestión de redes
+                  sociales empresariales enfocadas en servicio al cliente.
                 </p>
                 <ul className="social social-circle">
                   <li>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/yulianela-rodr%C3%ADguez-a9a0578a/">
                       <i className="icon-twitter"></i>
                     </a>
                   </li>
