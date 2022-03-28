@@ -77,7 +77,7 @@ function App() {
                   <h1 className="to-animate">
                     Desarrollo Web, Apps, SEO, E-commerces y mucho m&aacute;s
                   </h1>
-                  <h2 className="to-animate">Haz solo lo que amas!</h2>
+                  <h2 className="to-animate">"Haz solo lo que amas"</h2>
                 </div>
               </div>
             </div>
@@ -174,7 +174,7 @@ function App() {
           <div className="row row-bottom-padded-sm">
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_1.jpg"
+                href="images/work_1_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -183,24 +183,24 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 1</h2>
-                  <span>Branding</span>
+                  <h2>ULOAX</h2>
+                  <span>Web y App</span>
                 </div>
               </a>
             </div>
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_2.jpg"
+                href="images/work_2_full.png"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
-                  src="images/work_2.jpg"
+                  src="images/work_2.png"
                   alt="Image"
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 2</h2>
-                  <span>Web</span>
+                  <h2>Sneat</h2>
+                  <span>Administration Web Pages</span>
                 </div>
               </a>
             </div>
@@ -209,7 +209,7 @@ function App() {
 
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_3.jpg"
+                href="images/work_3_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -218,14 +218,14 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 3</h2>
+                  <h2>Veggie App</h2>
                   <span>Web</span>
                 </div>
               </a>
             </div>
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_4.jpg"
+                href="images/work_4_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -234,7 +234,7 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 4</h2>
+                  <h2>Drinker</h2>
                   <span>UI/UX</span>
                 </div>
               </a>
@@ -244,7 +244,7 @@ function App() {
 
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_5.jpg"
+                href="images/work_5_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -253,14 +253,14 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 1</h2>
-                  <span>Photography</span>
+                  <h2>Mita</h2>
+                  <span>Landing Page</span>
                 </div>
               </a>
             </div>
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_6.jpg"
+                href="images/work_6_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -269,8 +269,8 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 2</h2>
-                  <span>Illustration</span>
+                  <h2>D-POT</h2>
+                  <span>Landing Page</span>
                 </div>
               </a>
             </div>
@@ -279,7 +279,7 @@ function App() {
 
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_7.jpg"
+                href="images/work_7_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -295,7 +295,7 @@ function App() {
             </div>
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_8.jpg"
+                href="images/work_8_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
@@ -314,11 +314,11 @@ function App() {
 
             <div className="col-md-4 col-sm-6 col-xxs-12">
               <a
-                href="images/work_1.jpg"
+                href="images/work_9_full.webp"
                 className="fh5co-project-item image-popup to-animate"
               >
                 <img
-                  src="images/work_1.jpg"
+                  src="images/work_9.jpg"
                   alt="Image"
                   className="img-responsive"
                 />
@@ -329,7 +329,7 @@ function App() {
               </a>
             </div>
           </div>
-          <div className="row">
+          {/* <div className="row">
             <div className="col-md-12 text-center to-animate">
               <p>
                 * Demo images from{" "}
@@ -338,7 +338,7 @@ function App() {
                 </a>
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
       {/* Fin Section 3 */}
@@ -371,11 +371,12 @@ function App() {
                 </blockquote>
                 <div className="author to-animate">
                   <figure>
-                    <img src="images/person1.jpg" alt="Person" />
+                    <img src="images/usuario4.png" alt="Person" />
                   </figure>
                   <p>
-                    Jean Doe, CEO <a href="#">FREEHTML5.co</a>{" "}
-                    <span className="subtext">Creative Director</span>
+                    Jean Doe, CEO
+                    {/* <a href="#">FREEHTML5.co</a>{" "}
+                    <span className="subtext">Creative Director</span> */}
                   </p>
                 </div>
               </div>
@@ -394,11 +395,12 @@ function App() {
                 </blockquote>
                 <div className="author to-animate">
                   <figure>
-                    <img src="images/person2.jpg" alt="Person" />
+                    <img src="images/usuario4.png" alt="Person" />
                   </figure>
                   <p>
-                    John Doe, Senior UI <a href="#">FREEHTML5.co</a>{" "}
-                    <span className="subtext">Creative Director</span>
+                    John Doe, Senior UI
+                    {/* <a href="#">FREEHTML5.co</a>{" "}
+                    <span className="subtext">Creative Director</span> */}
                   </p>
                 </div>
               </div>
@@ -414,11 +416,12 @@ function App() {
                 </blockquote>
                 <div className="author to-animate">
                   <figure>
-                    <img src="images/person3.jpg" alt="Person" />
+                    <img src="images/usuario4.png" alt="Person" />
                   </figure>
                   <p>
-                    Chris Nash, Director <a href="#">FREEHTML5.co</a>{" "}
-                    <span className="subtext">Creative Director</span>
+                    Chris Nash, Director
+                    {/* <a href="#">FREEHTML5.co</a>{" "}
+                    <span className="subtext">Creative Director</span> */}
                   </p>
                 </div>
               </div>
@@ -516,8 +519,9 @@ function App() {
                 <h3>Jarvis Miranda</h3>
                 <span className="fh5co-position">Full Stack Developer</span>
                 <p>
-                  Software Engineer, Knowledge of Java, Javascript, React.js,
-                  Angular, Vue.js, PHP, MySQL, SQLServer, CSS, HTML
+                  Ingeniero de Software, Conocimiento en Java, Javascript,
+                  React.js, Redux, Next.js, Angular, Vue.js, PHP, MySQL,
+                  SQLServer, CSS, HTML, Laravel, NodeJS, Socket.io...
                 </p>
                 <ul className="social social-circle">
                   {/* <li>
@@ -691,13 +695,13 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 section-heading text-center">
-              <h2 className="to-animate">Ponerse en Contacto</h2>
+              <h2 className="to-animate">Cont&aacute;ctenos</h2>
               <div className="row">
                 <div className="col-md-8 col-md-offset-2 subtext to-animate">
-                  <h3>
+                  {/* <h3>
                     Hello? Hello? Hello? Is there anybody in there? Just nod if
                     you can hear me. Is there anyone at home?{" "}
-                  </h3>
+                  </h3> */}
                 </div>
               </div>
             </div>
