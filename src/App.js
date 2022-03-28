@@ -20,7 +20,7 @@ function App() {
                 <i></i>
               </a>
               <a className="navbar-brand" href="index.html">
-                Cubainsideout
+                CubaInsideOut
               </a>
             </div>
             <div id="navbar" className="navbar-collapse collapse">
@@ -814,11 +814,15 @@ function App() {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a
+                    href="https://www.facebook.com/cubainsideout"
+                    target="_blank"
+                    noreferrer
+                  >
                     <i className="icon-facebook"></i>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     <i className="icon-twitter"></i>
                   </a>
@@ -827,7 +831,7 @@ function App() {
                   <a href="#">
                     <i className="icon-youtube"></i>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
