@@ -75,9 +75,9 @@ function App() {
               <div className="row">
                 <div className="col-md-8 col-md-offset-2">
                   <h1 className="to-animate">
-                    Desarrollo Web, Apps, E-commerce, SEO y mucho m&aacute;
+                    Desarrollo Web, Apps, SEO, E-commerces y mucho m&aacute;s
                   </h1>
-                  <h2 className="to-animate">Haz solo lo que amas.</h2>
+                  <h2 className="to-animate">Haz solo lo que amas!</h2>
                 </div>
               </div>
             </div>
@@ -520,11 +520,11 @@ function App() {
                   Angular, Vue.js, PHP, MySQL, SQLServer, CSS, HTML
                 </p>
                 <ul className="social social-circle">
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="icon-twitter"></i>
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     <a
                       href="https://www.linkedin.com/in/jarvis-miranda-74896389"
@@ -556,10 +556,10 @@ function App() {
                 <ul className="social social-circle">
                   <li>
                     <a href="https://www.linkedin.com/in/orsanhec">
-                      <i className="icon-twitter"></i>
+                      <i className="icon-linkedin"></i>
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="icon-facebook"></i>
                     </a>
@@ -568,7 +568,7 @@ function App() {
                     <a href="#">
                       <i className="icon-github"></i>
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -589,10 +589,10 @@ function App() {
                 <ul className="social social-circle">
                   <li>
                     <a href="https://www.linkedin.com/in/yulianela-rodr%C3%ADguez-a9a0578a/">
-                      <i className="icon-twitter"></i>
+                      <i className="icon-linkedin"></i>
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="icon-facebook"></i>
                     </a>
@@ -601,7 +601,7 @@ function App() {
                     <a href="#">
                       <i className="icon-dribbble"></i>
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
