@@ -218,8 +218,8 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Veggie App</h2>
-                  <span>Web</span>
+                  <h2>Veggie</h2>
+                  <span>Web &#38; App</span>
                 </div>
               </a>
             </div>
@@ -288,7 +288,7 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 3</h2>
+                  <h2>Beauttia Hair Salon</h2>
                   <span>Web</span>
                 </div>
               </a>
@@ -304,8 +304,8 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 4</h2>
-                  <span>Sketch</span>
+                  <h2>ARKITEKT</h2>
+                  <span>Web &#38; App</span>
                 </div>
               </a>
             </div>
@@ -323,8 +323,8 @@ function App() {
                   className="img-responsive"
                 />
                 <div className="fh5co-text">
-                  <h2>Project 2</h2>
-                  <span>Illustration</span>
+                  <h2>Loyal&eacute;</h2>
+                  <span>Landing Page</span>
                 </div>
               </a>
             </div>
@@ -448,8 +448,9 @@ function App() {
           </div>
           <div className="row">
             <div className="col-md-6 col-sm-6 fh5co-service to-animate">
-              <i className="icon to-animate-2 icon-anchor"></i>
-              <h3>Brand &amp; Strategy</h3>
+              <i className="icon to-animate-2 icon-mobile"></i>
+
+              <h3>Apps</h3>
               <p>
                 Far far away, behind the word mountains, far from the countries
                 Vokalia and Consonantia, there live the blind texts. Separated
@@ -460,6 +461,19 @@ function App() {
             <div className="col-md-6 col-sm-6 fh5co-service to-animate">
               <i className="icon to-animate-2 icon-layers2"></i>
               <h3>Web &amp; Interface</h3>
+              <p>
+                Far far away, behind the word mountains, far from the countries
+                Vokalia and Consonantia, there live the blind texts. Separated
+                they live in Bookmarksgrove right at the coast of the Semantics,
+                a large language ocean
+              </p>
+            </div>
+
+            <div className="col-md-6 col-sm-6 fh5co-service to-animate">
+              {/* <i className="icon to-animate-2 icon-layers2"></i> */}
+              <i className="icon to-animate-2 icon-anchor"></i>
+              <h3>Brand &amp; Strategy</h3>
+
               <p>
                 Far far away, behind the word mountains, far from the countries
                 Vokalia and Consonantia, there live the blind texts. Separated
@@ -482,7 +496,18 @@ function App() {
             </div>
             <div className="col-md-6 col-sm-6 fh5co-service to-animate">
               <i className="icon to-animate-2 icon-monitor"></i>
-              <h3>CMS &amp; eCommerce</h3>
+              <h3>CMS &amp; E-commerce</h3>
+              <p>
+                Far far away, behind the word mountains, far from the countries
+                Vokalia and Consonantia, there live the blind texts. Separated
+                they live in Bookmarksgrove right at the coast of the Semantics,
+                a large language ocean
+              </p>
+            </div>
+
+            <div className="col-md-6 col-sm-6 fh5co-service to-animate">
+              <i className="icon to-animate-2 icon-zoom-in"></i>
+              <h3>SEO &amp; SEM</h3>
               <p>
                 Far far away, behind the word mountains, far from the countries
                 Vokalia and Consonantia, there live the blind texts. Separated
