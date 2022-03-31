@@ -10,7 +10,7 @@ function App() {
             <div className="navbar-header">
               {/* <!-- Mobile Toggle Menu Button --> */}
               <a
-                href="#"
+                href="/"
                 className="js-fh5co-nav-toggle fh5co-nav-toggle"
                 data-toggle="collapse"
                 data-target="#navbar"
@@ -19,39 +19,39 @@ function App() {
               >
                 <i></i>
               </a>
-              <a className="navbar-brand" href="index.html">
+              <a className="navbar-brand" href="/">
                 CubaInsideOut
               </a>
             </div>
             <div id="navbar" className="navbar-collapse collapse">
               <ul className="nav navbar-nav navbar-right">
                 <li className="active">
-                  <a href="#" data-nav-section="home">
+                  <a href="/" data-nav-section="home">
                     <span>Inicio</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-nav-section="work">
+                  <a href="/" data-nav-section="work">
                     <span>Trabajos</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-nav-section="testimonials">
+                  <a href="/" data-nav-section="testimonials">
                     <span>Testimonios</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-nav-section="services">
+                  <a href="/" data-nav-section="services">
                     <span>Servicios</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-nav-section="about">
+                  <a href="/" data-nav-section="about">
                     <span>Nosotros</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-nav-section="contact">
+                  <a href="/" data-nav-section="contact">
                     <span>Contacto</span>
                   </a>
                 </li>
@@ -99,7 +99,7 @@ function App() {
                   you know sometimes words have two meanings.
                 </p>
                 <p>
-                  <a href="#" className="btn btn-primary">
+                  <a href="/" className="btn btn-primary">
                     Get In Touch
                   </a>
                 </p>
@@ -117,7 +117,7 @@ function App() {
                   wonder.
                 </p>
                 <p>
-                  <a href="#" className="btn btn-primary">
+                  <a href="/" className="btn btn-primary">
                     Click Me
                   </a>
                 </p>
@@ -134,7 +134,7 @@ function App() {
                   spirit is crying for leaving. In my thoughts I have seen
                 </p>
                 <p>
-                  <a href="#" className="btn btn-primary">
+                  <a href="/" className="btn btn-primary">
                     Why Us?
                   </a>
                 </p>
@@ -558,12 +558,13 @@ function App() {
                     <a
                       href="https://www.linkedin.com/in/jarvis-miranda-74896389"
                       target="_blank"
+                      rel="noopener noreferrer nofollow"
                     >
                       <i className="icon-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://github.com/kaiser5474" target="_blank">
+                    <a href="https://github.com/kaiser5474" target="_blank" rel="noopener noreferrer nofollow">
                       <i className="icon-github"></i>
                     </a>
                   </li>
@@ -835,7 +836,7 @@ function App() {
                   <a
                     href="https://www.linkedin.com/company/cubainsideout"
                     target="_blank"
-                    noreferrer
+                    rel="noopener noreferrer nofollow"
                   >
                     <i className="icon-linkedin"></i>
                   </a>
@@ -844,7 +845,7 @@ function App() {
                   <a
                     href="https://www.facebook.com/cubainsideout"
                     target="_blank"
-                    noreferrer
+                    rel="noopener noreferrer nofollow"
                   >
                     <i className="icon-facebook"></i>
                   </a>
